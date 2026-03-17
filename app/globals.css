@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+h1{
+  font-family: var(--font-barlow-condensed);
+}
+.blog-para{
+  font-family: var(--font-instrument-serif);
+}
